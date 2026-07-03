@@ -107,15 +107,7 @@ local-rag-pipeline/
 ├── requirements.txt        # Python dependencies (pinned versions)
 ├── .env.example            # Environment variable template (copy to .env)
 ├── .gitignore
-│
-├── Projet_Cyber/           # LaTeX report source
-│   ├── main.tex
-│   └── *.png               # Figures and screenshots
-│
-└── rapport/
-    └── schemas/            # Generated PNG diagrams
-        ├── workflow_rag.png
-        └── architecture_env.png
+
 ```
 
 ---
