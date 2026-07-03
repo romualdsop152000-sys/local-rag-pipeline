@@ -1,0 +1,48 @@
+# Credentials
+.env
+
+# Environnement Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Cache HuggingFace / datasets
+~/.cache/huggingface/
+*.arrow
+*.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rapport — fichiers compilés LaTeX
+Projet_Cyber/*.aux
+Projet_Cyber/*.log
+Projet_Cyber/*.toc
+Projet_Cyber/*.lof
+Projet_Cyber/*.out
+Projet_Cyber/*.fls
+Projet_Cyber/*.fdb_latexmk
+Projet_Cyber/*.synctex.gz
+Projet_Cyber/*.pdf
